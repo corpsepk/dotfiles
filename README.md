@@ -24,16 +24,10 @@ Run terminal, press `ctrl + ,`
 
 ```json
 {
-  
-  ...
-  
   "profiles":
   {
-    ...
-    
     "list":
     [
-      ...
       {
         "guid": "{3d977679-1cab-44ca-aeed-c7999acb1039}",
         "commandline": "%PROGRAMFILES%/git/usr/bin/bash.exe -i -l",
@@ -46,8 +40,5 @@ Run terminal, press `ctrl + ,`
       }
     ]
   },
-
-  ...
 }
-
 ```
